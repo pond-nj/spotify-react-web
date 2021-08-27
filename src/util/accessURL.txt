@@ -1,0 +1,1 @@
+https://accounts.spotify.com/authorize?client_id=a8f8fad42f0e45568722c012700162ed&response_type=token&scope=playlist-modify-public&redirect_uri=http://localhost:3000/
